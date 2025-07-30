@@ -12,6 +12,7 @@
         src="https://avatars.githubusercontent.com/u/44260523?v=4"
       />
       <p>whitehades</p>
+      <i class="fa-brands fa-github"></i>
     </a>
   </footer>
 </template>
@@ -34,8 +35,8 @@ footer {
   flex-direction: column;
   gap: 0.5rem;
   align-items: center;
-  padding: 3rem 0;
-  padding-bottom: 4rem;
+  padding: 2rem 0;
+  padding-bottom: 3rem;
 }
 footer a {
   display: flex;
