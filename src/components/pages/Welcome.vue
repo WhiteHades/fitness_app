@@ -24,6 +24,7 @@
       <p>Do you accept?</p>
       <button>Begin &rarr;</button>
     </div>
+    <div></div>
   </section>
 </template>
 
